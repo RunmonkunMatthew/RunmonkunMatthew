@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me runmonkunmatthew@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: introvert
+- ⚡ Fun fact: Loves coding with music 🎶 playing in the background 
+- Current Skills 
+         - Html💫
+         - CSS💫
+         - JavaScript💫
 
 <!---
 RunmonkunMatthew/RunmonkunMatthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
